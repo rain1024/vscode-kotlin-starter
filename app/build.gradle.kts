@@ -18,5 +18,5 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass.set("vscode.kotlin.starter.App")
+    mainClass.set("example.Example")
 }
