@@ -14,6 +14,7 @@ dependencies {
 
     // This dependency is used by the application.
     implementation("com.google.guava:guava:31.1-jre")
+    implementation("com.google.api:api-common:2.17.1")
 }
 
 application {
